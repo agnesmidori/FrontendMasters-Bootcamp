@@ -1,6 +1,6 @@
 # Bootcamp-FrontendMasters
 
-I enrolled into this bootcamp https://frontendmasters.com/bootcamp/ and decide to create my first repository to watch my progress.
+I enrolled into this bootcamp https://frontendmasters.com/bootcamp/ and decided to create my first repository to watch my progress.
 I'm a beginner so I have a lot to learn and english is not my native language.
 If you find something wrong about my english or code, please, let me know.
 
