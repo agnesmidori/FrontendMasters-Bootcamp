@@ -4,7 +4,9 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #2a4480;
     color: #bf8f30;
-    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+    width: 75%;
 }
 
 img {
@@ -18,6 +20,8 @@ section h1 {
 h1 {
     color: #876ed7;
     border: 2px solid lightblue;
+    margin:0 auto;
+    width: 15%;
 }
 
 h2, h3 {
@@ -27,7 +31,13 @@ h2, h3 {
 }
 
 ol {
+    text-align: center;
+    list-style-position: inside;
+}
 
+ul {
+    text-align: center;
+    list-style-position: inside;
 }
 
 blockquote {
@@ -52,3 +62,4 @@ section p {
     font-family: sans-serif;
     font-style: italic;
 }
+
