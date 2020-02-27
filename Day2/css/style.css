@@ -2,11 +2,10 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #2a4480;
-    color: #bf8f30;
-    text-align: center;
-    margin: 0 auto;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
     width: 75%;
+    margin: 0 auto;
+    
 }
 
 img {
@@ -15,13 +14,14 @@ img {
 
 section h1 {
     text-align: center;
+    margin: 0 auto;
 }
 
 h1 {
     color: #876ed7;
     border: 2px solid lightblue;
     margin:0 auto;
-    width: 15%;
+    
 }
 
 h2, h3 {
@@ -30,27 +30,20 @@ h2, h3 {
     font-style: oblique;
 }
 
-ol {
-    text-align: center;
-    list-style-position: inside;
-}
-
-ul {
-    text-align: center;
-    list-style-position: inside;
-}
 
 blockquote {
+    border: 4px dotted #D65DB1;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 3rem;
+    font-size: 2rem;
     font-style: italic;
     text-align: center;
-    color: #ffaa00;
+    color: #D65DB1;
+  
 }
 
 cite{
   font-size: 1.5rem;
-  color: #ffaa00;
+  color: #4E8397;
 }
 
 .bigbold {
@@ -61,5 +54,5 @@ cite{
 section p {
     font-family: sans-serif;
     font-style: italic;
+    text-align: center;
 }
-
