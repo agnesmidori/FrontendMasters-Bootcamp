@@ -8,8 +8,10 @@ body {
     
 }
 
-img {
-    border: 10px solid lightblue;
+h1 {
+    color: #876ed7;
+    border: 2px solid #845EC2;
+    margin:0 auto;
 }
 
 section h1 {
@@ -17,19 +19,11 @@ section h1 {
     margin: 0 auto;
 }
 
-h1 {
-    color: #876ed7;
-    border: 2px solid lightblue;
-    margin:0 auto;
-    
-}
-
 h2, h3 {
     font-family: cursive;
     color: #6a48d7;
     font-style: oblique;
 }
-
 
 blockquote {
     border: 4px dotted #D65DB1;
@@ -42,13 +36,8 @@ blockquote {
 }
 
 cite{
-  font-size: 1.5rem;
-  color: #4E8397;
-}
-
-.bigbold {
-  font-weight:lighter;
-  font-size: 1.0rem;
+    font-size: 1.5rem;
+    color: #4E8397;
 }
 
 section p {
@@ -56,3 +45,55 @@ section p {
     font-style: italic;
     text-align: center;
 }
+
+p:hover {
+    background-color: #FFFFFF;
+    color: #9B89B3;
+}
+
+img {
+    border: 10px solid #B39CD0;
+    display: block;
+    margin: 0 auto;
+}
+
+.bigbold {
+    font-weight:lighter;
+    font-size: 1.0rem;
+}
+
+hr {
+    border: 1px dashed #845EC2;
+}
+
+ul a:link {
+    color: #008B74;
+    text-decoration: none;
+    font-family: 'sans serif';
+}
+
+ul a:hover {
+    color: #FF9671;
+    font-weight: bold;
+}
+
+a:link {
+    color: #008B74;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #00C9A7;
+    text-decoration: none;
+}
+a:focus {
+    border: 3px dotted black;
+}
+a:hover {
+    color: #04004A;
+    font-weight: bold;
+}
+
+
+
+
