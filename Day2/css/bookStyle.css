@@ -1,0 +1,57 @@
+/* Exercise - Styling a book exerpt */
+
+body {
+  background-color: #8D6262;
+  color: #393232;
+  font-family: georgia, 'palatino linotype', cambria;
+  text-align: justify;
+}
+
+h2 {
+  color: #ED8D8D;
+}
+
+blockquote {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  font-family:  tahoma, garamond, futura;
+  color: #BFA5A4;
+}
+
+.bq2 {
+  text-align: justify;
+  width: 50%;
+  margin: 0 auto;
+  font-family:  tahoma, garamond, futura;
+  color: #BFA5A4;
+}
+
+cite {
+  font-weight: bold;
+}
+
+footer {
+  font-size: 8pt;
+}
+
+hr {
+  border: 0.05rem solid #393232;
+}
+
+.excerpt {
+  text-align: center;
+}
+
+a:link {
+  color: #393232;
+}
+
+a:visited {
+  color: #FB885F;
+}
+
+a:hover {
+  font-weight: bold;
+  color: #ED8D8D;
+}
